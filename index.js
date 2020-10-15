@@ -4,7 +4,7 @@ console.log(`
 *************************************************************
 
 Name: Rafi
-Handle: @approxhuman
+Twitter: @approxhuman
 Blog: https://dev.to/rafi993
 Github: https://github.com/rafi993
 
